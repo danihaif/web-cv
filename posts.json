@@ -1,6 +1,7 @@
 [
     {
-        "date": "2024-04-10",
-        "content": "Today, we embarked on the journey of enhancing my personal portfolio website. We started by discussing the creation of a beautiful, public CV website, followed by the decision on a domain name and the intricacies of hosting it. Transitioning the site to a React-based architecture for a more professional deployment was also covered. Furthermore, we addressed potential npm and Node.js installation issues, ensuring a smooth development process. Adding dynamic elements such as animations on click events and summarizing extensive professional experiences into a concise and engaging homepage narrative were key milestones. Lastly, the expansion of the site with a new blog section signifies a new chapter where my thoughts and experiences can be shared broadly."
+        "title": "Enhancing My Professional Portfolio",
+        "description": "Today, I focused on refining my professional portfolio to better reflect my extensive experience and skill set in software engineering. This involved transitioning my website to a React-based architecture, ensuring a more dynamic and responsive user experience. Key accomplishments included implementing a more robust deployment process, addressing potential npm and Node.js installation challenges, and integrating dynamic elements to improve site interactivity. Additionally, I streamlined the presentation of my professional background, emphasizing my expertise in cross-platform C++ application development, backend architecture, and my proactive approach to problem-solving.",
+        "date": "2024-04-10"
     }
 ]
