@@ -1,5 +1,10 @@
 [
     {
+        "title": "Second Post",
+        "description": "Description of the second post...",
+        "date": "2024-04-11"
+    },
+    {
         "title": "Enhancing My Professional Portfolio",
         "description": "Today, I focused on refining my professional portfolio to better reflect my extensive experience and skill set in software engineering. This involved transitioning my website to a React-based architecture, ensuring a more dynamic and responsive user experience. Key accomplishments included implementing a more robust deployment process, addressing potential npm and Node.js installation challenges, and integrating dynamic elements to improve site interactivity. Additionally, I streamlined the presentation of my professional background, emphasizing my expertise in cross-platform C++ application development, backend architecture, and my proactive approach to problem-solving.",
         "date": "2024-04-10"
