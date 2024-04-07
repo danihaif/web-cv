@@ -188,4 +188,25 @@ nav ul {
     }
 }
 
-/* More specific styling for even and odd if needed */
+.back-to-home {
+    display: inline-flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically center align items */
+    justify-content: center; /* Horizontally center content */
+    margin: 20px;
+    padding: 8px 16px; /* Reduced padding for a smaller button */
+    background-color: #a0d2eb; /* Lighter shade of blue */
+    color: #2d3033; /* Keeping text color white for contrast */
+    text-decoration: none; /* Remove underline */
+    border-radius: 4px; /* Slightly less rounded corners */
+    font-size: 14px; /* Smaller font size for a more subdued appearance */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.back-to-home i {
+    margin-right: 5px; /* Reduced space between the icon and text for a tighter look */
+    font-size: 16px; /* Adjust icon size to match the text */
+}
+
+.back-to-home:hover {
+    background-color: #89c2d9; /* A slightly darker shade on hover for subtle interaction feedback */
+}
