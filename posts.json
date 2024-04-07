@@ -1,12 +1,12 @@
 [
     {
-        "title": "Second Post",
-        "description": "Description of the second post...",
-        "date": "2024-04-11"
+        "title": "Still the Same Post, Only with Emojies",
+        "description": "Today, I wanted to try something new 🚀. I decided to build my own website for my CV and personal blog 🖥️. I have zero knowledge in web development, but decided to reach out to my LLM buddy (for which I pay $20 a month, thank you very much 😂) for help. This resulted in a very interesting day 🌟. What I have come to realize is that the AI revolution 🤖 will be a major force in lowering the barrier of entry for many fields. Of course, this website is really simplistic and does not contain sophisticated logic (it doesn't even have a backend and is hosted on GitHub Pages, which allow static content only 📄), but it gets the job done ✅. OK, enough typing; I am getting tired 😴. I am off prompting my LLMB (B is for buddy) with my original text so it will correct all my typos and spelling mistakes. You know what, I'll ask him to add emojis too 🎉. Let's make it more fun 🥳 and see if he can sprinkle a little magic ✨ on my humble text.",
+        "date": "2024-04-10"
     },
     {
         "title": "Enhancing My Professional Portfolio",
-        "description": "Today, I focused on refining my professional portfolio to better reflect my extensive experience and skill set in software engineering. This involved transitioning my website to a React-based architecture, ensuring a more dynamic and responsive user experience. Key accomplishments included implementing a more robust deployment process, addressing potential npm and Node.js installation challenges, and integrating dynamic elements to improve site interactivity. Additionally, I streamlined the presentation of my professional background, emphasizing my expertise in cross-platform C++ application development, backend architecture, and my proactive approach to problem-solving.",
+        "description": "Today, I wanted to try something new. I decided to build my own website for my CV and personal blog. I have zero knowlege in web development, but decided to reach out to my LLM buddy (for which I pay 20$ a month thank you very much) for help. This resulted in a very intersting day. What I have come to realize is the the AI revolution will be a major force in lowering the barrier of entry for many fields. Of course, this website is really simplistic and does not contain sophisticated logic (it doesn't even have a backend and is hosted on github pages which allow static content only), but it gets the job done. OK, enough typing I am getting tired. I am off prompting my LLMB (B is for buddy) with my original text so it will correct all my typos and spelling mistakes. You know what, i'll ask him to add emojis too.",
         "date": "2024-04-10"
     }
 ]

@@ -127,3 +127,65 @@ nav ul {
         opacity: 0;
     }
 }
+
+.blog-post {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.blog-post.even {
+    background-color: #d1e3f8; /* Light gray for even posts */
+}
+
+.blog-post.odd {
+    background-color: #dff7ff; /* Slightly darker gray for odd posts */
+}
+
+.post-title {
+    font-size: 24px; /* Slightly larger font for the title */
+}
+
+.post-description {
+    font-size: 16px; /* Standard text size */
+}
+
+.post-date {
+    font-size: 14px; /* Slightly smaller font for the date */
+    text-align: right;
+    margin-top: 10px;
+}
+
+
+/* Existing blog post styles and others... */
+
+.blog-heading {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 28px;
+}
+
+.container {
+    margin-top: 40px; /* Adds space at the top of the first blog post */
+}
+
+.blog-post {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow for depth */
+    background-color: #f0f0f0; /* Light gray background for contrast */
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+    .blog-post {
+        margin: 20px 10px; /* Adjusts spacing for smaller screens */
+    }
+
+    .post-title, .post-description, .post-date {
+        text-align: left; /* Ensures text aligns nicely on smaller screens */
+    }
+}
+
+/* More specific styling for even and odd if needed */
