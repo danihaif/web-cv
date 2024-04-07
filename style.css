@@ -1,11 +1,23 @@
+:root {
+    --primary-color: #e9f3ed; /* Example Primary Color */
+    --text-color: #000000; /* Example Text Color */
+    --background-color: #c9e2f3; /* Example Background Color */
+}
+
+
 html, body {
     height: 100%;
     min-height: 100vh;
     margin: 0;
     padding: 0;
+    color: var(--text-color);
+    background-color: var(--background-color);
 }
-/* Continue with your existing styles... */
 
+h1, h2, h3, p, ul, li {
+    margin: 0 0 2px 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif; /* Example Font */
+}
 
 /* Basic Reset */
 * {
